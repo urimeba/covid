@@ -9,13 +9,13 @@ Cov-vida se hace como una aplicacion movil a modo de mantenerse actualizados e i
 <img src="screenshots/screenshot_3.jpg" alt="Screenshot 3" width="500" height="600">
 
 ## Lista de tareas por hacer:
-- Traducir el contenido a español
-- Agregar lista de los estados de México
-- Actualizar los casos en la app diariamente
-- Agregar mapas de cada estado de México
-- Crear pantalla de detalle de la actualizacion de mapas (graficas de evolucion de contagios, decesos, recuperados y semaforo)
-- Crear pantalla de detalle de Prevencion
-- Toggle al boton del menu principal
+- [ ] Traducir el contenido a español
+- [ ] Agregar lista de los estados de México
+- [ ] Actualizar los casos en la app diariamente
+- [ ] Agregar mapas de cada estado de México
+- [ ] Crear pantalla de detalle de la actualizacion de mapas (graficas de evolucion de contagios,   decesos, recuperados y semaforo)
+- [ ] Crear pantalla de detalle de Prevencion
+- [ ] Toggle al boton del menu principal
 
 ## Como contribuir
 
@@ -29,3 +29,6 @@ Cov-vida se hace como una aplicacion movil a modo de mantenerse actualizados e i
 - Pide un PULL REQUEST
 - Espera a que el PULL REQUEST se apruebe. En caso de que no se apruebe, se te comentara por que.
 - Listo!
+
+## Agradecimientos
+Agradezco profundamente a @abuanwar072 por el esfuerzo puesto en su canal de YT "The Flutter Way", tomando una de las plantillas como inspiración para este proyecto.
