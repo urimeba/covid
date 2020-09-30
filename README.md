@@ -1,16 +1,31 @@
-# covid
+## Cov-vida
 
-A new Flutter project.
+Cov-vida se hace como una aplicacion movil a modo de mantenerse actualizados e informados sobre lo que sucede en cada uno de los estados de México.
 
-## Getting Started
+## Trabajo actual
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/screenshot_1">
+<img src="screenshots/screenshot_2">
+<img src="screenshots/screenshot_3">
 
-A few resources to get you started if this is your first Flutter project:
+## Lista de tareas por hacer:
+- Traducir el contenido a español
+- Agregar lista de los estados de México
+- Actualizar los casos en la app diariamente
+- Agregar mapas de cada estado de México
+- Crear pantalla de detalle de la actualizacion de mapas (graficas de evolucion de contagios, decesos, recuperados y semaforo)
+- Crear pantalla de detalle de Prevencion
+- Toggle al boton del menu principal
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Como contribuir
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Realiza el FORK de este repositorio en tu cuenta de GitHub
+- Clona tu repositorio en tu computadora
+- Crea una nueva rama tuya 
+- Ingresa a la rama que acabas de crear
+- Escribe el codigo que desees
+- Haz el commit de tus cambio, escribiendo el titulo con las actividades que realizaste y explayandote en la descripcion.
+- Has PUSH 
+- Pide un PULL REQUEST
+- Espera a que el PULL REQUEST se apruebe. En caso de que no se apruebe, se te comentara por que.
+- Listo!

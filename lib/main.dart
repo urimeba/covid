@@ -1,4 +1,3 @@
-import 'package:covid/info_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:covid/constant.dart';
