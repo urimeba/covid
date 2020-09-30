@@ -4,9 +4,9 @@ Cov-vida se hace como una aplicacion movil a modo de mantenerse actualizados e i
 
 ## Trabajo actual
 
-<img src="screenshots/screenshot_1">
-<img src="screenshots/screenshot_2">
-<img src="screenshots/screenshot_3">
+<img src="screenshots/screenshot_1.jpg" alt="Screenshot 1" width="500" height="600">
+<img src="screenshots/screenshot_2.jpg" alt="Screenshot 2" width="500" height="600">
+<img src="screenshots/screenshot_3.jpg" alt="Screenshot 3" width="500" height="600">
 
 ## Lista de tareas por hacer:
 - Traducir el contenido a español
